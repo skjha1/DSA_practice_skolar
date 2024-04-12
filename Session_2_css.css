@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <title>Document</title>
+</head>
+<body>
+  <p>This is a paragraph with <progress value="50" max="100">50%</progress>Progress</p>
+
+  <canvas width = "200" height="100" style="border: 1px solid black;">  </canvas>
+
+  <audio controls src="audio.mp3" type = "audio/max">
+     Your browser does not support audio element
+    </audio>
+
+    <video width="320" height="240" controls>
+      <source src="movie.mp4" type="video/mp4"> 
+      Your browser does not support Video element
+    </video>
+
+    <h2>Display warning</h2>
+    <p>This pannel will show the warning</p>
+
+    <div class="w3-panel w3-yellow ">
+      <h3>Warning!</h3>
+      <p>Yellow is used for warning</p>
+
+    </div>
+    <div class="w3-panel w3-pale-yellow ">
+      <h3>Warning!</h3>
+      <p>Yellow is used for warning</p>
+
+    </div>
+
+    <div class="w3-panel w3-red ">
+      <h3>Danger!</h3>
+      <p>Yellow is used for warning</p>
+
+    </div>
+
+    <div class="w3-panel w3-pale-red ">
+      <h3>Danger!</h3>
+      <p>Yellow is used for warning</p>
+
+    </div>
+
+
+    <div class="w3-container">
+      <h2>Cards</h2>
+      <p>Create a paper with Cards</p>
+
+
+      <div class="w3-panel w3-card"><p>This is 1st card</p></div>
+      <div class="w3-panel w3-card"><p>This is 2nd card</p></div>
+      <div class="w3-panel w3-card"><p>This is 3rd card</p></div>
+
+
+    </div>
+
+
+    <div class="w3-container">
+
+      <h2>Border around the table</h2>
+
+      <p>The class adds a border around the table</p>
+
+
+      <table class="w3-table w3-striped w3-bordered">
+
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Marks</th>
+        </tr>
+
+        <tr>
+          <td>Abhishek</td>
+          <td>Pant</td>
+          <td>80</td>
+        </tr>
+
+        <tr>
+          <td>Shivam</td>
+          <td>Dubey</td>
+          <td>70</td>
+        </tr>
+
+        <tr>
+          <td>Raghav</td>
+          <td>Sarma</td>
+          <td>90</td>
+        </tr>
+
+
+
+
+      </table>
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+</body>
+</html>
